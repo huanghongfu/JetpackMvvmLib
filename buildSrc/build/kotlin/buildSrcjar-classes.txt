@@ -1,0 +1,1 @@
+E:\github\JetpackMvvm-master\buildSrc\build\classes\kotlin\main\Lib.class;E:\github\JetpackMvvm-master\buildSrc\build\classes\kotlin\main\Plugins.class;E:\github\JetpackMvvm-master\buildSrc\build\classes\kotlin\main\Version.class
